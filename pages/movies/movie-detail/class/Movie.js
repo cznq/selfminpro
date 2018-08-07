@@ -1,4 +1,4 @@
-var util = require('../../../../utils/util.js')
+var util = require('../../../utils/util.js')
 class Movie {
     constructor(url) {
         this.url = url;
